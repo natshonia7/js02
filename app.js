@@ -30,7 +30,7 @@ const myFunc2= (a, b)=>{
 }
 console.log(myFunc2(4,2));
 
-
+// დავალება 4
 // do while
 
 let q=10;
