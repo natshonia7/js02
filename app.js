@@ -29,3 +29,12 @@ const myFunc2= (a, b)=>{
     return c;
 }
 console.log(myFunc2(4,2));
+
+
+// do while
+
+let q=10;
+do{
+    console.log('hello')
+}
+while(q<7);
